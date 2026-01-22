@@ -1,6 +1,5 @@
 
 # ☁️ Microsoft 365 Administration & Data Recovery Lab
-### [Sergio Garcia | IT Portfolio](github.com/garcias3317-source)
 
 ## 📝 Description
 This project demonstrates my proficiency in  using the **Microsoft 365 Admin Center**. I performed end-to-end administrative tasks including user lifecycle management, Shared Mailboxes/Distribution Lists, and critical data recovery via OneDrive for Business administration.
